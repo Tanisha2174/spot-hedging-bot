@@ -1,0 +1,10 @@
+python-telegram-bot==20.3
+requests
+ccxt
+pandas
+numpy
+scipy
+matplotlib
+python-dotenv
+keras
+tensorflow
